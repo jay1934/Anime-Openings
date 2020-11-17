@@ -1,0 +1,1762 @@
+[
+  {
+    "anime": "Ajin",
+    "author": "flumpool",
+    "file": "ajin1",
+    "song": "Op 1: \"Yoru wa Nemureru Kai?\"",
+    "match": "Yoru wa Nemureru Kai\\??",
+    "animeMatch": "Ajin",
+    "songMatch": "Yoru wa Nemureru Kai\\??",
+    "duration": 90
+  },
+  {
+    "anime": "Angel Beats",
+    "author": "Lia",
+    "file": "angel1",
+    "song": "Op 1: \"My Soul, Your Beats\"",
+    "match": "My Soul,? Your Beats",
+    "animeMatch": "Angel Beats",
+    "songMatch": "My Soul,? Your Beats",
+    "duration": 90
+  },
+  {
+    "anime": "Ao Haru Ride",
+    "author": "CHiCO",
+    "file": "ao1",
+    "song": "Op 1: \"Sekai wa koi ni ochiteiru\"",
+    "match": "Sekai wa koi ni ochiteiru",
+    "animeMatch": "Ao Haru Ride",
+    "songMatch": "Sekai wa koi ni ochiteiru",
+    "duration": 90
+  },
+  {
+    "anime": "Assassination Classroom",
+    "author": "3-nen E-gumi Utatan",
+    "file": "assassination2",
+    "song": "Op 2: \"Bye-bye Yesterday\"",
+    "match": "Bye[- ]?bye Yesterday",
+    "animeMatch": "Assassination Classroom",
+    "songMatch": "Bye[- ]?bye Yesterday",
+    "duration": 90
+  },
+  {
+    "anime": "Attack on Titan",
+    "author": "Linked Horizon",
+    "file": "attack1",
+    "song": "Op 1: \"Guren no Yumiya\"",
+    "match": "Guren no Yumiya",
+    "animeMatch": "Attack on Titan",
+    "songMatch": "Guren no Yumiya",
+    "duration": 111
+  },
+  {
+    "anime": "Attack on Titan",
+    "author": "Linked Horizon",
+    "file": "attack3",
+    "song": "Op 3: \"Shinzo wo Sasageyo!\"",
+    "match": "Shinzo wo Sasageyo!?",
+    "animeMatch": "Attack on Titan",
+    "songMatch": "Shinzo wo Sasageyo!?",
+    "duration": 89
+  },
+  {
+    "anime": "Attack on Titan",
+    "author": "Linked Horizon",
+    "file": "attack5",
+    "song": "Op 5: \"Shoukei to Shikabane no Michi\"",
+    "match": "Shoukei to Shikabane no Michi",
+    "animeMatch": "Attack on Titan",
+    "songMatch": "Shoukei to Shikabane no Michi",
+    "duration": 89
+  },
+  {
+    "anime": "Baccano!",
+    "author": "Paradise Lunch",
+    "file": "baccano1",
+    "song": "Op 1: \"Gun's & Roses\"",
+    "match": "Gun'?s (&|and) Roses",
+    "animeMatch": "Baccano!?",
+    "songMatch": "Gun'?s (&|and) Roses",
+    "duration": 254
+  },
+  {
+    "anime": "Bakemonogatari",
+    "author": "Kana Hanazawa",
+    "file": "bakemonogatari4",
+    "song": "Op 4: \"Renai Circulation\"",
+    "match": "Renai Circulation",
+    "animeMatch": "Bakemonogatari",
+    "songMatch": "Renai Circulation",
+    "duration": 91
+  },
+  {
+    "anime": "Balance Unlimited",
+    "author": "SixTones",
+    "file": "balance1",
+    "song": "Op 1: \"Navigator\"",
+    "match": "Navigator",
+    "animeMatch": "Balance Unlimited",
+    "songMatch": "Navigator",
+    "duration": 94
+  },
+  {
+    "anime": "Banana Fish",
+    "author": "King Gnu",
+    "file": "banana1",
+    "song": "Ed 1: \"Prayer X\"",
+    "match": "Prayer X",
+    "animeMatch": "Banana Fish",
+    "songMatch": "Prayer X",
+    "duration": 89
+  },
+  {
+    "anime": "Banana Fish",
+    "author": "Survive Said The Prophet",
+    "file": "bananaE1",
+    "song": "Op 1: \"found & lost\"",
+    "match": "found (&|and) lost",
+    "animeMatch": "Banana Fish",
+    "songMatch": "found (&|and) lost",
+    "duration": 90
+  },
+  {
+    "anime": "Beastars",
+    "author": "ALI",
+    "file": "beastars1",
+    "song": "Op 1: \"Wild Side\"",
+    "match": "Wild Side",
+    "animeMatch": "Beastars",
+    "songMatch": "Wild Side",
+    "duration": 90
+  },
+  {
+    "anime": "Black Butler",
+    "author": "シド",
+    "file": "butler1",
+    "song": "Op 1: \"Monochrome no Kiss\"",
+    "match": "Monochrome no Kiss",
+    "animeMatch": "Black Butler",
+    "songMatch": "Monochrome no Kiss",
+    "duration": 89
+  },
+  {
+    "anime": "Black Clover",
+    "author": "Vickeblanka",
+    "file": "clover1",
+    "song": "Op 10: \"Black Catcher\"",
+    "match": "Black Catcher",
+    "animeMatch": "Black Clover",
+    "songMatch": "Black Catcher",
+    "duration": 100
+  },
+  {
+    "anime": "Black Clover",
+    "author": "Vickeblanka",
+    "file": "clover3",
+    "song": "Op 3: \"Black Rover\"",
+    "match": "Black Rover",
+    "animeMatch": "Black Clover",
+    "songMatch": "Black Rover",
+    "duration": 104
+  },
+  {
+    "anime": "Black Clover",
+    "author": "Koda Kumi",
+    "file": "clover4",
+    "song": "Op 4: \"Guess Who is Back\"",
+    "match": "Guess Who is Back",
+    "animeMatch": "Black Clover",
+    "songMatch": "Guess Who is Back",
+    "duration": 88
+  },
+  {
+    "anime": "Bleach",
+    "author": "Orange Range",
+    "file": "bleach1",
+    "song": "Op 1: \"Asterisk\"",
+    "match": "Asterisk",
+    "animeMatch": "Bleach",
+    "songMatch": "Asterisk",
+    "duration": 100
+  },
+  {
+    "anime": "Bleach",
+    "author": "SCANDAL",
+    "file": "bleach10",
+    "song": "Op 10: \"Shojo S\"",
+    "match": "Shojo S",
+    "animeMatch": "Bleach",
+    "songMatch": "Shojo S",
+    "duration": 99
+  },
+  {
+    "anime": "Bleach",
+    "author": "SID",
+    "file": "bleach13",
+    "song": "Op 13: \"Ranbu no Melody\"",
+    "match": "Ranbu no Melody",
+    "animeMatch": "Bleach",
+    "songMatch": "Ranbu no Melody",
+    "duration": 100
+  },
+  {
+    "anime": "Bleach",
+    "author": "SCANDAL",
+    "file": "bleach15",
+    "song": "Op 15: \"Harukaze\"",
+    "match": "Harukaze",
+    "animeMatch": "Bleach",
+    "songMatch": "Harukaze",
+    "duration": 100
+  },
+  {
+    "anime": "Bleach",
+    "author": "High and Mighty Color",
+    "file": "bleach3",
+    "song": "Op 3: \"Ichirin no Hana\"",
+    "match": "Ichirin no Hana",
+    "animeMatch": "Bleach",
+    "songMatch": "Ichirin no Hana",
+    "duration": 100
+  },
+  {
+    "anime": "Bleach",
+    "author": "YUI",
+    "file": "bleach5",
+    "song": "Op 5: \"Rolling Star\"",
+    "match": "Rolling Star",
+    "animeMatch": "Bleach",
+    "songMatch": "Rolling Star",
+    "duration": 100
+  },
+  {
+    "anime": "Bleach",
+    "author": "Aqua Timez",
+    "file": "bleach6",
+    "song": "Op 6: \"Alones\"",
+    "match": "Alones",
+    "animeMatch": "Bleach",
+    "songMatch": "Alones",
+    "duration": 100
+  },
+  {
+    "anime": "Bleach",
+    "author": "Asian Kung-Fu Generation",
+    "file": "bleach7",
+    "song": "Op 7: \"After Dark\"",
+    "match": "After Dark",
+    "animeMatch": "Bleach",
+    "songMatch": "After Dark",
+    "duration": 99
+  },
+  {
+    "anime": "Bleach",
+    "author": "Kelun",
+    "file": "bleach8",
+    "song": "Op 8: \"Chu-Bara\"",
+    "match": "Chu[- ]?Bara",
+    "animeMatch": "Bleach",
+    "songMatch": "Chu[- ]?Bara",
+    "duration": 99
+  },
+  {
+    "anime": "Bleach",
+    "author": "Aqua Timez",
+    "file": "bleach9",
+    "song": "Op 9: \"Velonica\"",
+    "match": "Velonica",
+    "animeMatch": "Bleach",
+    "songMatch": "Velonica",
+    "duration": 100
+  },
+  {
+    "anime": "Blue Exorcist",
+    "author": "Uverworld",
+    "file": "blue1",
+    "song": "Op 1: \"Core Pride\"",
+    "match": "Core Pride",
+    "animeMatch": "Blue Exorcist",
+    "songMatch": "Core Pride",
+    "duration": 93
+  },
+  {
+    "anime": "Bungou Stray Dogs",
+    "author": "SCREEN Mode",
+    "file": "bungou2",
+    "song": "Op 2: \"Reason Living\"",
+    "match": "Reason Living",
+    "animeMatch": "Bungou Stray Dogs",
+    "songMatch": "Reason Living",
+    "duration": 91
+  },
+  {
+    "anime": "Bungou Stray Dogs",
+    "author": "GRANRODEO",
+    "file": "bungou3",
+    "song": "Op 3: \"Setsuna no Ai\"",
+    "match": "Setsuna no Ai",
+    "animeMatch": "Bungou Stray Dogs",
+    "songMatch": "Setsuna no Ai",
+    "duration": 90
+  },
+  {
+    "anime": "Carnival Phantasm",
+    "author": "Kuribayashi Minami and Hashimoto Miyuki",
+    "file": "carnival1",
+    "song": "Op 1: \"Super Affection\"",
+    "match": "Super Affection",
+    "animeMatch": "Carnival Phantasm",
+    "songMatch": "Super Affection",
+    "duration": 206
+  },
+  {
+    "anime": "Clannad: After Story",
+    "author": "Lia",
+    "file": "clannad1",
+    "song": "Op 1: \"Toki Wo Kizamu Uta\"",
+    "match": "Toki Wo Kizamu Uta",
+    "animeMatch": "Clannad:? After Story",
+    "songMatch": "Toki Wo Kizamu Uta",
+    "duration": 292
+  },
+  {
+    "anime": "Code Geass",
+    "author": "FLOW",
+    "file": "code1",
+    "song": "Op 1: \"COLORS\"",
+    "match": "COLORS",
+    "animeMatch": "Code Geass",
+    "songMatch": "COLORS",
+    "duration": 103
+  },
+  {
+    "anime": "Cowboy Bebop",
+    "author": "Seatbelts",
+    "file": "cowboy1",
+    "song": "Op 1: \"Tank!\"",
+    "match": "Tank!?",
+    "animeMatch": "Cowboy Bebop",
+    "songMatch": "Tank!?",
+    "duration": 90
+  },
+  {
+    "anime": "Darker Than Black",
+    "author": "Stereopony",
+    "file": "dark3",
+    "song": "Op 3: \"Tsukiakari no Michishirube\"",
+    "match": "Tsukiakari no Michishirube",
+    "animeMatch": "Darker Than Black",
+    "songMatch": "Tsukiakari no Michishirube",
+    "duration": 89
+  },
+  {
+    "anime": "Darwin's Game",
+    "author": "ASCA",
+    "file": "darwin1",
+    "song": "Op 1: \"CHAIN\"",
+    "match": "CHAIN",
+    "animeMatch": "Darwin'?s Game",
+    "songMatch": "CHAIN",
+    "duration": 88
+  },
+  {
+    "anime": "Deadman Wonderland",
+    "author": "DWB",
+    "file": "deadman1",
+    "song": "Op 1: \"One Reason\"",
+    "match": "One Reason",
+    "animeMatch": "Deadman Wonderland",
+    "songMatch": "One Reason",
+    "duration": 96
+  },
+  {
+    "anime": "Death Note",
+    "author": "NIGHTMARE",
+    "file": "note1",
+    "song": "Op 1: \"the WORLD\"",
+    "match": "the WORLD",
+    "animeMatch": "Death Note",
+    "songMatch": "the WORLD",
+    "duration": 81
+  },
+  {
+    "anime": "Death Parade",
+    "author": "BRADIO",
+    "file": "parade1",
+    "song": "Op 1: \"Flyers\"",
+    "match": "Flyers",
+    "animeMatch": "Death Parade",
+    "songMatch": "Flyers",
+    "duration": 79
+  },
+  {
+    "anime": "Demon Slayer",
+    "author": "LiSA",
+    "file": "demon1",
+    "song": "Op 1: \"Gurenge\"",
+    "match": "Gurenge",
+    "animeMatch": "Demon Slayer",
+    "songMatch": "Gurenge",
+    "duration": 89
+  },
+  {
+    "anime": "Domestic Girlfriend",
+    "author": "Minami",
+    "file": "domestic1",
+    "song": "Op 1: \"Kawaki wo Ameku\"",
+    "match": "Kawaki wo Ameku",
+    "animeMatch": "Domestic Girlfriend",
+    "songMatch": "Kawaki wo Ameku",
+    "duration": 91
+  },
+  {
+    "anime": "Dororo",
+    "author": "Ziyoou-vachi",
+    "file": "dororo1",
+    "song": "Op 1: \"Kaen\"",
+    "match": "Kaen",
+    "animeMatch": "Dororo",
+    "songMatch": "Kaen",
+    "duration": 90
+  },
+  {
+    "anime": "Dr. Stone",
+    "author": "BURNOUT SYNDROMES",
+    "file": "stone1",
+    "song": "Op 1: \"Good Morning World!\"",
+    "match": "Good Morning World!?",
+    "animeMatch": "Dr.? Stone",
+    "songMatch": "Good Morning World!?",
+    "duration": 90
+  },
+  {
+    "anime": "Durarara!!",
+    "author": "Theatre Brook",
+    "file": "durarara1",
+    "song": "Op 1: \"Uragiri No Yuuyake\"",
+    "match": "Uragiri No Yuuyake",
+    "animeMatch": "Durarara!?!?",
+    "songMatch": "Uragiri No Yuuyake",
+    "duration": 98
+  },
+  {
+    "anime": "Durarara!!",
+    "author": "ROOKiEZ is PUNK'D",
+    "file": "durarara2",
+    "song": "Op 2: \"Complication\"",
+    "match": "Complication",
+    "animeMatch": "Durarara!?!?",
+    "songMatch": "Complication",
+    "duration": 91
+  },
+  {
+    "anime": "Elfen Lied",
+    "author": "Kemarl1fam",
+    "file": "elfen1",
+    "song": "Op 1: \"Lilium\"",
+    "match": "Lilium",
+    "animeMatch": "Elfen Lied",
+    "songMatch": "Lilium",
+    "duration": 88
+  },
+  {
+    "anime": "Erased",
+    "author": "Asian Kung-Fu Generation",
+    "file": "erased1",
+    "song": "Op 1: \"Re:Re:\"",
+    "match": "(Re: ?Re:|Re ?Re)",
+    "animeMatch": "Erased",
+    "songMatch": "(Re: ?Re:|Re ?Re)",
+    "duration": 90
+  },
+  {
+    "anime": "Ergo Proxy",
+    "author": "MONORAL",
+    "file": "ergo1",
+    "song": "Op 1: \"Kiri\"",
+    "match": "Kiri",
+    "animeMatch": "Ergo Proxy",
+    "songMatch": "Kiri",
+    "duration": 104
+  },
+  {
+    "anime": "Fairy Tail",
+    "author": "Funkist",
+    "file": "fairy1",
+    "song": "Op 1: \"Snow Fairy\"",
+    "match": "Snow Fairy",
+    "animeMatch": "Fairy Tail",
+    "songMatch": "Snow Fairy",
+    "duration": 87
+  },
+  {
+    "anime": "Fairy Tail",
+    "author": "BoA",
+    "file": "fairy15",
+    "song": "Op 15: \"Masayume Chasing\"",
+    "match": "Masayume Chasing",
+    "animeMatch": "Fairy Tail",
+    "songMatch": "Masayume Chasing",
+    "duration": 90
+  },
+  {
+    "anime": "Fairy Tail",
+    "author": "BACK-ON",
+    "file": "fairy16",
+    "song": "Op 16: \"Strike Back\"",
+    "match": "Strike Back",
+    "animeMatch": "Fairy Tail",
+    "songMatch": "Strike Back",
+    "duration": 93
+  },
+  {
+    "anime": "Fairy Tail",
+    "author": "EDGE of LIFE",
+    "file": "fairy21",
+    "song": "Op 21: \"Believe in Myself\"",
+    "match": "Believe in Myself",
+    "animeMatch": "Fairy Tail",
+    "songMatch": "Believe in Myself",
+    "duration": 89
+  },
+  {
+    "anime": "Fairy Tail",
+    "author": "Funkist",
+    "file": "fairy3",
+    "song": "Op 3: \"ft\"",
+    "match": "ft\\.?",
+    "animeMatch": "Fairy Tail",
+    "songMatch": "ft\\.?",
+    "duration": 89
+  },
+  {
+    "anime": "Fairy Tail",
+    "author": "+Plus",
+    "file": "fairy6",
+    "song": "Op 6: \"Fiesta\"",
+    "match": "Fiesta",
+    "animeMatch": "Fairy Tail",
+    "songMatch": "Fiesta",
+    "duration": 91
+  },
+  {
+    "anime": "Fairy Tail",
+    "author": "JAMIL",
+    "file": "fairy8",
+    "song": "Op 8: \"Rock City Boy\"",
+    "match": "Rock City Boy",
+    "animeMatch": "Fairy Tail",
+    "songMatch": "Rock City Boy",
+    "duration": 88
+  },
+  {
+    "anime": "Fate/Apocrypha",
+    "author": "EGOIST",
+    "file": "apocrypha1",
+    "song": "Op 1: \"Eiyuu Unmei no Uta\"",
+    "match": "Eiyuu Unmei no Uta",
+    "animeMatch": "Fate/Apocrypha",
+    "songMatch": "Eiyuu Unmei no Uta",
+    "duration": 95
+  },
+  {
+    "anime": "Fate/Stay Night: Unlimited Blade Works",
+    "author": "Aimer",
+    "file": "stay2",
+    "song": "Op 2: \"Brave Shine\"",
+    "match": "Brave Shine",
+    "animeMatch": "Fate/Stay Night: Unlimited Blade Works",
+    "songMatch": "Brave Shine",
+    "duration": 90
+  },
+  {
+    "anime": "Fate/Zero",
+    "author": "LiSA",
+    "file": "zero1",
+    "song": "Op 1: \"oath sign\"",
+    "match": "oath sign",
+    "animeMatch": "Fate/Zero",
+    "songMatch": "oath sign",
+    "duration": 96
+  },
+  {
+    "anime": "Fate/Zero",
+    "author": "Kalafina",
+    "file": "zero2",
+    "song": "Op 2: \"To the Beginning\"",
+    "match": "To the Beginning",
+    "animeMatch": "Fate/Zero",
+    "songMatch": "To the Beginning",
+    "duration": 89
+  },
+  {
+    "anime": "Fire Force",
+    "author": "Mrs.GREEN APPLE",
+    "file": "fire1",
+    "song": "Op 1: \"Inferno\"",
+    "match": "Inferno",
+    "animeMatch": "Fire Force",
+    "songMatch": "Inferno",
+    "duration": 89
+  },
+  {
+    "anime": "Food Wars!",
+    "author": "Tokyo Karankoron",
+    "file": "foodE1",
+    "song": "Ed 1: \"Spice\"",
+    "match": "Spice",
+    "animeMatch": "Food Wars!?",
+    "songMatch": "Spice",
+    "duration": 100
+  },
+  {
+    "anime": "Food Wars!",
+    "author": "Ultra Tower",
+    "file": "food1",
+    "song": "Op 1: \"Kibo no Uta\"",
+    "match": "Kibo no Uta",
+    "animeMatch": "Food Wars!?",
+    "songMatch": "Kibo no Uta",
+    "duration": 102
+  },
+  {
+    "anime": "Food Wars!",
+    "author": "Misokkasu",
+    "file": "food2",
+    "song": "Op 2: \"Rising Rainbow\"",
+    "match": "Rising Rainbow",
+    "animeMatch": "Food Wars!?",
+    "songMatch": "Rising Rainbow",
+    "duration": 103
+  },
+  {
+    "anime": "Food Wars!",
+    "author": "STEREO DIVE FOUNDATION",
+    "file": "food6",
+    "song": "Op 6: \"Chronos\"",
+    "match": "Chronos",
+    "animeMatch": "Food Wars!?",
+    "songMatch": "Chronos",
+    "duration": 98
+  },
+  {
+    "anime": "Free! -Iwatobi Swim Club-",
+    "author": "STYLE FIVE",
+    "file": "freeE1",
+    "song": "Ed 1: \"SPLASH FREE.\"",
+    "match": "SPLASH FREE\\.?",
+    "animeMatch": "(Free! )?-?Iwatobi Swim Club-?",
+    "songMatch": "SPLASH FREE\\.?",
+    "duration": 98
+  },
+  {
+    "anime": "Fruits Basket",
+    "author": "Beverly",
+    "file": "fruit1",
+    "song": "Op 1: \"Again\"",
+    "match": "Again",
+    "animeMatch": "Fruits Basket",
+    "songMatch": "Again",
+    "duration": 93
+  },
+  {
+    "anime": "Fullmetal Alchemist",
+    "author": "Porno Graffitti",
+    "file": "full1",
+    "song": "Op 1: \"Melissa\"",
+    "match": "Melissa",
+    "animeMatch": "Fullmetal Alchemist",
+    "songMatch": "Melissa",
+    "duration": 100
+  },
+  {
+    "anime": "Fullmetal Alchemist",
+    "author": "Asian Kung Fu Generation",
+    "file": "full4",
+    "song": "Op 4: \"Rewrite\"",
+    "match": "Rewrite",
+    "animeMatch": "Fullmetal Alchemist",
+    "songMatch": "Rewrite",
+    "duration": 97
+  },
+  {
+    "anime": "Fullmetal Alchemist Brotherhood",
+    "author": "Fukuhara Miho",
+    "file": "brotherE1",
+    "song": "Ed 1: \"Let it out\"",
+    "match": "Let it out",
+    "animeMatch": "Fullmetal Alchemist Brotherhood",
+    "songMatch": "Let it out",
+    "duration": 93
+  },
+  {
+    "anime": "Fullmetal Alchemist Brotherhood",
+    "author": "SID",
+    "file": "brotherv2E1",
+    "song": "Ed 1: \"Uso\"",
+    "match": "Uso",
+    "animeMatch": "Fullmetal Alchemist Brotherhood",
+    "songMatch": "Uso",
+    "duration": 88
+  },
+  {
+    "anime": "Fullmetal Alchemist Brotherhood",
+    "author": "SCANDAL",
+    "file": "brotherE4",
+    "song": "Ed 4: \"Shunkan Sentimental\"",
+    "match": "Shunkan Sentimental",
+    "animeMatch": "Fullmetal Alchemist Brotherhood",
+    "songMatch": "Shunkan Sentimental",
+    "duration": 91
+  },
+  {
+    "anime": "Fullmetal Alchemist Brotherhood",
+    "author": "YUI",
+    "file": "brother1",
+    "song": "Op 1: \"Again\"",
+    "match": "Again",
+    "animeMatch": "Fullmetal Alchemist Brotherhood",
+    "songMatch": "Again",
+    "duration": 89
+  },
+  {
+    "anime": "Fullmetal Alchemist Brotherhood",
+    "author": "NICO Touches the Walls",
+    "file": "brother2",
+    "song": "Op 2: \"Hologram\"",
+    "match": "Hologram",
+    "animeMatch": "Fullmetal Alchemist Brotherhood",
+    "songMatch": "Hologram",
+    "duration": 92
+  },
+  {
+    "anime": "Fullmetal Alchemist Brotherhood",
+    "author": "CHEMISTRY",
+    "file": "brother4",
+    "song": "Op 4: \"Period\"",
+    "match": "Period",
+    "animeMatch": "Fullmetal Alchemist Brotherhood",
+    "songMatch": "Period",
+    "duration": 91
+  },
+  {
+    "anime": "Fullmetal Alchemist Brotherhood",
+    "author": "SID",
+    "file": "brother5",
+    "song": "Op 5: \"Rain\"",
+    "match": "Rain",
+    "animeMatch": "Fullmetal Alchemist Brotherhood",
+    "songMatch": "Rain",
+    "duration": 93
+  },
+  {
+    "anime": "Gintama",
+    "author": "SPYAIR",
+    "file": "gintama13",
+    "song": "Op 13: \"Sakuramitsutsuki\"",
+    "match": "Sakuramitsutsuki",
+    "animeMatch": "Gintama",
+    "songMatch": "Sakuramitsutsuki",
+    "duration": 93
+  },
+  {
+    "anime": "Given",
+    "author": "Centimillimental",
+    "file": "given1",
+    "song": "Op 1: \"Kizuato\"",
+    "match": "Kizuato",
+    "animeMatch": "Given",
+    "songMatch": "Kizuato",
+    "duration": 100
+  },
+  {
+    "anime": "Great Teacher Onizuka",
+    "author": "Porno Graffitti",
+    "file": "great2",
+    "song": "Op 2: \"Hitori no Yoru\"",
+    "match": "Hitori no Yoru",
+    "animeMatch": "Great Teacher Onizuka",
+    "songMatch": "Hitori no Yoru",
+    "duration": 108
+  },
+  {
+    "anime": "Guilty Crown",
+    "author": "Supercell",
+    "file": "guilty1",
+    "song": "Op 1: \"My Dearest\"",
+    "match": "My Dearest",
+    "animeMatch": "Guilty Crown",
+    "songMatch": "My Dearest",
+    "duration": 96
+  },
+  {
+    "anime": "Guilty Crown",
+    "author": "Egoist",
+    "file": "guilty2",
+    "song": "Op 2: \"The Everlasting Guilty Crown\"",
+    "match": "The Everlasting Guilty Crown",
+    "animeMatch": "Guilty Crown",
+    "songMatch": "The Everlasting Guilty Crown",
+    "duration": 96
+  },
+  {
+    "anime": "Haikyuu",
+    "author": "SPYAIR",
+    "file": "haikyuu1",
+    "song": "Op 1: \"Imagination\"",
+    "match": "Imagination",
+    "animeMatch": "Haikyuu",
+    "songMatch": "Imagination",
+    "duration": 100
+  },
+  {
+    "anime": "Haikyuu",
+    "author": "BURNOUT SYNDROMES",
+    "file": "haikyuu4",
+    "song": "Op 4: \"FLY HIGH!\"",
+    "match": "FLY HIGH!?",
+    "animeMatch": "Haikyuu",
+    "songMatch": "FLY HIGH!?",
+    "duration": 100
+  },
+  {
+    "anime": "Haikyuu",
+    "author": "BURNOUT SYNDROMES",
+    "file": "haikyuu5",
+    "song": "Op 5: \"Hikari Are\"",
+    "match": "Hikari Are",
+    "animeMatch": "Haikyuu",
+    "songMatch": "Hikari Are",
+    "duration": 100
+  },
+  {
+    "anime": "Haikyuu!! To the Top",
+    "author": "BURNOUT SYNDROMES",
+    "file": "top1",
+    "song": "Op 1: \"Phoenix\"",
+    "match": "Phoenix",
+    "animeMatch": "Haikyuu!?!?:? To the Top",
+    "songMatch": "Phoenix",
+    "duration": 100
+  },
+  {
+    "anime": "Haikyuu!! To the Top",
+    "author": "SUPER BEAVER",
+    "file": "top2",
+    "song": "Op 2: \"Toppako\"",
+    "match": "Toppako",
+    "animeMatch": "Haikyuu!?!?:? To the Top",
+    "songMatch": "Toppako",
+    "duration": 100
+  },
+  {
+    "anime": "Hunter x Hunter",
+    "author": "Fear and loathing in Las Vegas",
+    "file": "hunterE1",
+    "song": "Ed 1: \"Just Awake\"",
+    "match": "Just Awake",
+    "animeMatch": "Hunter( x |x)Hunter",
+    "songMatch": "Just Awake",
+    "duration": 90
+  },
+  {
+    "anime": "Hunter x Hunter",
+    "author": "Galneryus",
+    "file": "hunterE2",
+    "song": "Ed 2: \"HUNTING FOR YOUR DREAM\"",
+    "match": "HUNTING FOR YOUR DREAM",
+    "animeMatch": "Hunter( x |x)Hunter",
+    "songMatch": "HUNTING FOR YOUR DREAM",
+    "duration": 80
+  },
+  {
+    "anime": "Hunter x Hunter",
+    "author": "Yuzu",
+    "file": "hunterE3",
+    "song": "Ed 3: \"REASON\"",
+    "match": "REASON",
+    "animeMatch": "Hunter( x |x)Hunter",
+    "songMatch": "REASON",
+    "duration": 80
+  },
+  {
+    "anime": "Hunter x Hunter",
+    "author": "Yuzu",
+    "file": "hunterE4",
+    "song": "Ed 4: \"Nagareboshi Kirari\"",
+    "match": "Nagareboshi Kirari",
+    "animeMatch": "Hunter( x |x)Hunter",
+    "songMatch": "Nagareboshi Kirari",
+    "duration": 89
+  },
+  {
+    "anime": "Hunter x Hunter",
+    "author": "Yuzu",
+    "file": "hunterE5",
+    "song": "Ed 5: \"Hyouriittai\"",
+    "match": "Hyouriittai",
+    "animeMatch": "Hunter( x |x)Hunter",
+    "songMatch": "Hyouriittai",
+    "duration": 90
+  },
+  {
+    "anime": "Hunter x Hunter",
+    "author": "Masatoshi Ono",
+    "file": "hunter1",
+    "song": "Op 1: \"Departure!\"",
+    "match": "Departure!?",
+    "animeMatch": "Hunter( x |x)Hunter",
+    "songMatch": "Departure!?",
+    "duration": 90
+  },
+  {
+    "anime": "Inuyasha",
+    "author": "Ricardo Silva",
+    "file": "inuyasha1",
+    "song": "Op 1: \"Change the World\"",
+    "match": "Change the World",
+    "animeMatch": "Inuyasha",
+    "songMatch": "Change the World",
+    "duration": 96
+  },
+  {
+    "anime": "Inuyashiki",
+    "author": "MAN WITH A MISSION",
+    "file": "inuyashiki1",
+    "song": "Op 1: \"My Hero\"",
+    "match": "My Hero",
+    "animeMatch": "Inuyashiki",
+    "songMatch": "My Hero",
+    "duration": 90
+  },
+  {
+    "anime": "JoJo’s Bizarre Adventure: Battle Tendency",
+    "author": "Coda",
+    "file": "battle1",
+    "song": "Op 1: \"Bloody Stream\"",
+    "match": "Bloody Stream",
+    "animeMatch": "JoJo’?s Bizarre Adventure(: Battle Tendency)?",
+    "songMatch": "Bloody Stream",
+    "duration": 92
+  },
+  {
+    "anime": "JoJo’s Bizarre Adventure: Golden Wind",
+    "author": "Coda",
+    "file": "gold1",
+    "song": "Op 1: \"Fighting Gold\"",
+    "match": "Fighting Gold",
+    "animeMatch": "JoJo’?s Bizarre Adventure(: Golden Wind)?",
+    "songMatch": "Fighting Gold",
+    "duration": 89
+  },
+  {
+    "anime": "JoJo’s Bizarre Adventure: Phantom Blood",
+    "author": "Hiroaki TOMMY Tominaga",
+    "file": "phantom1",
+    "song": "Op 1: \"Sono Chi no Sadame\"",
+    "match": "Sono Chi no Sadame",
+    "animeMatch": "JoJo’?s Bizarre Adventure(: Phantom Blood)?",
+    "songMatch": "Sono Chi no Sadame",
+    "duration": 89
+  },
+  {
+    "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+    "author": "Karen Aoki and Daisuke Hasegawa",
+    "file": "diamond3",
+    "song": "Op 3: \"Great Days\"",
+    "match": "Great Days",
+    "animeMatch": "JoJo'?s Bizarre Adventure(: Diamond is Unbreakable)?",
+    "songMatch": "Great Days",
+    "duration": 273
+  },
+  {
+    "anime": "Jujutsu Kaisen",
+    "author": "Eve",
+    "file": "jujutsu1",
+    "song": "Op 1: \"Kaikai Kitan\"",
+    "match": "Kaikai Kitan",
+    "animeMatch": "Jujutsu Kaisen",
+    "songMatch": "Kaikai Kitan",
+    "duration": 90
+  },
+  {
+    "anime": "Jujutsu Kaisen",
+    "author": "ALI",
+    "file": "jujutsuE1",
+    "song": "Ed 1: \"Lost in Paradies\"",
+    "match": "Lost in Paradies",
+    "animeMatch": "Jujutsu Kaisen",
+    "songMatch": "Lost in Paradies",
+    "duration": 90
+  },
+  {
+    "anime": "Kaichou wa Maid-sama!",
+    "author": "水野佐彩",
+    "file": "kaichou1",
+    "song": "Op 1: \"My Secret\"",
+    "match": "My Secret",
+    "animeMatch": "Kaichou wa Maid[- ]?sama!?",
+    "songMatch": "My Secret",
+    "duration": 89
+  },
+  {
+    "anime": "Kakegurui",
+    "author": "Tia",
+    "file": "kakegurui1",
+    "song": "Op 1: \"Deal with the Devil\"",
+    "match": "Deal with the Devil",
+    "animeMatch": "Kakegurui",
+    "songMatch": "Deal with the Devil",
+    "duration": 93
+  },
+  {
+    "anime": "Kamisama Kiss",
+    "author": "Hanae",
+    "file": "kiss1",
+    "song": "Op 1: \"Kamisama Hajimemashita\"",
+    "match": "Kamisama Hajimemashita",
+    "animeMatch": "Kamisama Kiss",
+    "songMatch": "Kamisama Hajimemashita",
+    "duration": 90
+  },
+  {
+    "anime": "Kekkai Sensen",
+    "author": "BUMP OF CHICKEN",
+    "file": "kekkai1",
+    "song": "Op 1: \"Hello, World!\"",
+    "match": "Hello,? World!?",
+    "animeMatch": "Kekkai Sensen",
+    "songMatch": "Hello,? World!?",
+    "duration": 90
+  },
+  {
+    "anime": "Kill la Kill",
+    "author": "GARNiDELiA",
+    "file": "kill2",
+    "song": "Op 2: \"ambiguous\"",
+    "match": "ambiguous",
+    "animeMatch": "Kill la Kill",
+    "songMatch": "ambiguous",
+    "duration": 93
+  },
+  {
+    "anime": "Kokkoku",
+    "author": "MIYAVI and Kenken",
+    "file": "kokkoku1",
+    "song": "Op 1: \"Flashback\"",
+    "match": "Flashback",
+    "animeMatch": "Kokkoku",
+    "songMatch": "Flashback",
+    "duration": 93
+  },
+  {
+    "anime": "K-On!",
+    "author": "放課後ﾃｨｰﾀｲﾑ",
+    "file": "k-on1",
+    "song": "Op 1: \"Cagayake! GIRLS\"",
+    "match": "Cagayake!?( GIRLS)?",
+    "animeMatch": "K[- ]?On!?",
+    "songMatch": "Cagayake!?( GIRLS)?",
+    "duration": 89
+  },
+  {
+    "anime": "Kuroko no Basket",
+    "author": "GRANRODEO",
+    "file": "kuroko1",
+    "song": "Op 1: \"Can Do\"",
+    "match": "Can Do",
+    "animeMatch": "Kuroko no Basket",
+    "songMatch": "Can Do",
+    "duration": 99
+  },
+  {
+    "anime": "Kuroko no Basket",
+    "author": "GRANRODEO",
+    "file": "kuroko3",
+    "song": "Op 3: \"The Other Self\"",
+    "match": "The Other Self",
+    "animeMatch": "Kuroko no Basket",
+    "songMatch": "The Other Self",
+    "duration": 99
+  },
+  {
+    "anime": "Levius",
+    "author": "Nazome",
+    "file": "levius1",
+    "song": "Op 1: \"wit and love\"",
+    "match": "wit and love",
+    "animeMatch": "Levius",
+    "songMatch": "wit and love",
+    "duration": 220
+  },
+  {
+    "anime": "Love is War",
+    "author": "Masayuki Suzuki",
+    "file": "love1",
+    "song": "Op 1: \"Love Dramatic\"",
+    "match": "Love Dramatic",
+    "animeMatch": "Love is War",
+    "songMatch": "Love Dramatic",
+    "duration": 126
+  },
+  {
+    "anime": "Lucky Star",
+    "author": "JAMProject",
+    "file": "lucky1",
+    "song": "Op 1: \"Motteki! Sailor Fuku\"",
+    "match": "Motteki!?( Sailor Fuku)?",
+    "animeMatch": "Lucky Star",
+    "songMatch": "Motteki!?( Sailor Fuku)?",
+    "duration": 101
+  },
+  {
+    "anime": "Magi",
+    "author": "SID",
+    "file": "magi1",
+    "song": "Op 1: \"V.I.P\"",
+    "match": "V\\.?I\\.?P",
+    "animeMatch": "Magi",
+    "songMatch": "V\\.?I\\.?P",
+    "duration": 92
+  },
+  {
+    "anime": "Mirai Nikki",
+    "author": "Kuusou Mesorogii",
+    "file": "mirai1",
+    "song": "Op 1: \"Kuusou Mesorogiwi\"",
+    "match": "Kuusou Mesorogiwi",
+    "animeMatch": "Mirai Nikki",
+    "songMatch": "Kuusou Mesorogiwi",
+    "duration": 96
+  },
+  {
+    "anime": "Mob Psycho 100",
+    "author": "Mob Choir",
+    "file": "mob1",
+    "song": "Op 1: \"99\"",
+    "match": "99",
+    "animeMatch": "Mob Psycho 100",
+    "songMatch": "99",
+    "duration": 100
+  },
+  {
+    "anime": "Mob Psycho 100",
+    "author": "Mob Choir",
+    "file": "mob2",
+    "song": "Op 2: \"99.9\"",
+    "match": "99\\.9",
+    "animeMatch": "Mob Psycho 100",
+    "songMatch": "99\\.9",
+    "duration": 100
+  },
+  {
+    "anime": "My Hero Academia",
+    "author": "Porno Graffitti",
+    "file": "hero1",
+    "song": "Op 1: \"The Day\"",
+    "match": "The Day",
+    "animeMatch": "My Hero Academia",
+    "songMatch": "The Day",
+    "duration": 100
+  },
+  {
+    "anime": "My Hero Academia",
+    "author": "Kenshi Yonezu",
+    "file": "hero2",
+    "song": "Op 2: \"Peace Sign\"",
+    "match": "Peace Sign",
+    "animeMatch": "My Hero Academia",
+    "songMatch": "Peace Sign",
+    "duration": 99
+  },
+  {
+    "anime": "My Hero Academia",
+    "author": "Uverworld",
+    "file": "hero4",
+    "song": "Op 4: \"Odd Future\"",
+    "match": "Odd Future",
+    "animeMatch": "My Hero Academia",
+    "songMatch": "Odd Future",
+    "duration": 100
+  },
+  {
+    "anime": "Naruto",
+    "author": "Hound Dog",
+    "file": "naruto1",
+    "song": "Op 1: \"ROCKS\"",
+    "match": "ROCKS",
+    "animeMatch": "Naruto",
+    "songMatch": "ROCKS",
+    "duration": 105
+  },
+  {
+    "anime": "Naruto",
+    "author": "Asian Kung-Fu Generation",
+    "file": "naruto2",
+    "song": "Op 2: \"Far Away\"",
+    "match": "Far Away",
+    "animeMatch": "Naruto",
+    "songMatch": "Far Away",
+    "duration": 100
+  },
+  {
+    "anime": "Naruto",
+    "author": "FLOW",
+    "file": "naruto4",
+    "song": "Op 4: \"GO!!\"",
+    "match": "GO!?!?",
+    "animeMatch": "Naruto",
+    "songMatch": "GO!?!?",
+    "duration": 104
+  },
+  {
+    "anime": "Naruto",
+    "author": "Sambomaster",
+    "file": "naruto5",
+    "song": "Op 5: \"Rhapsody of Youth\"",
+    "match": "Rhapsody of Youth",
+    "animeMatch": "Naruto",
+    "songMatch": "Rhapsody of Youth",
+    "duration": 100
+  },
+  {
+    "anime": "Naruto Shippuden",
+    "author": "nobodyknows+",
+    "file": "ship1",
+    "song": "Op 1: \"Hero's Come Back!!\"",
+    "match": "Hero's Come Back!?!?",
+    "animeMatch": "Naruto Shippuden",
+    "songMatch": "Hero's Come Back!?!?",
+    "duration": 89
+  },
+  {
+    "anime": "Naruto Shippuden",
+    "author": "DOES",
+    "file": "ship15",
+    "song": "Op 15: \"Guren\"",
+    "match": "Guren",
+    "animeMatch": "Naruto Shippuden",
+    "songMatch": "Guren",
+    "duration": 104
+  },
+  {
+    "anime": "Naruto Shippuden",
+    "author": "KANA-BOON",
+    "file": "ship16",
+    "song": "Op 16: \"Silhouette\"",
+    "match": "Silhouette",
+    "animeMatch": "Naruto Shippuden",
+    "songMatch": "Silhouette",
+    "duration": 99
+  },
+  {
+    "anime": "Naruto Shippuden",
+    "author": "LONG SHOT PARTY",
+    "file": "ship2",
+    "song": "Op 2: \"Distance\"",
+    "match": "Distance",
+    "animeMatch": "Naruto Shippuden",
+    "songMatch": "Distance",
+    "duration": 99
+  },
+  {
+    "anime": "Naruto Shippuden",
+    "author": "Anly",
+    "file": "ship20",
+    "song": "Op 20: \"Kara no Kokoro\"",
+    "match": "Kara no Kokoro",
+    "animeMatch": "Naruto Shippuden",
+    "songMatch": "Kara no Kokoro",
+    "duration": 104
+  },
+  {
+    "anime": "Naruto Shippuden",
+    "author": "Ikimono-gakari",
+    "file": "ship3",
+    "song": "Op 3: \"Blue Bird\"",
+    "match": "Blue Bird",
+    "animeMatch": "Naruto Shippuden",
+    "songMatch": "Blue Bird",
+    "duration": 104
+  },
+  {
+    "anime": "Naruto Shippuden",
+    "author": "Ikimono-gakari",
+    "file": "ship5",
+    "song": "Op 5: \"Hotaru no Hikari\"",
+    "match": "Hotaru no Hikari",
+    "animeMatch": "Naruto Shippuden",
+    "songMatch": "Hotaru no Hikari",
+    "duration": 104
+  },
+  {
+    "anime": "Naruto Shippuden",
+    "author": "FLOW",
+    "file": "ship6",
+    "song": "Op 6: \"Sign\"",
+    "match": "Sign",
+    "animeMatch": "Naruto Shippuden",
+    "songMatch": "Sign",
+    "duration": 103
+  },
+  {
+    "anime": "Naruto Shippuden",
+    "author": "NICO Touches the Walls",
+    "file": "ship8",
+    "song": "Op 8: \"Diver\"",
+    "match": "Diver",
+    "animeMatch": "Naruto Shippuden",
+    "songMatch": "Diver",
+    "duration": 104
+  },
+  {
+    "anime": "Neon Genesis Evangelion",
+    "author": "Yoko Takahashi",
+    "file": "neon1",
+    "song": "Op 1: \"Cruel Angel's Thesis\"",
+    "match": "Cruel Angel'?s Thesis",
+    "animeMatch": "Neon Genesis Evangelion",
+    "songMatch": "Cruel Angel'?s Thesis",
+    "duration": 91
+  },
+  {
+    "anime": "No Game No Life",
+    "author": "Konomi Suzuki",
+    "file": "game1",
+    "song": "Op 1: \"This Game\"",
+    "match": "This Game",
+    "animeMatch": "No Game No Life",
+    "songMatch": "This Game",
+    "duration": 99
+  },
+  {
+    "anime": "Noragami",
+    "author": "Hello Sleepwalkers",
+    "file": "noragami1",
+    "song": "Op 1: \"Goya no Machiawase\"",
+    "match": "Goya no Machiawase",
+    "animeMatch": "Noragami",
+    "songMatch": "Goya no Machiawase",
+    "duration": 90
+  },
+  {
+    "anime": "Noragami",
+    "author": "The Oral Cigarettes",
+    "file": "noragami2",
+    "song": "Op 2: \"Kyouran Hey Kids!\"",
+    "match": "Kyouran Hey Kids!?",
+    "animeMatch": "Noragami",
+    "songMatch": "Kyouran Hey Kids!?",
+    "duration": 90
+  },
+  {
+    "anime": "One Piece",
+    "author": "Hiroshi Kitadani",
+    "file": "piece1",
+    "song": "Op 1: \"We Are!\"",
+    "match": "We Are!?",
+    "animeMatch": "One Piece",
+    "songMatch": "We Are!?",
+    "duration": 110
+  },
+  {
+    "anime": "One Piece",
+    "author": "TVXQ",
+    "file": "piece11",
+    "song": "Op 11: \"Share the World\"",
+    "match": "Share the World",
+    "animeMatch": "One Piece",
+    "songMatch": "Share the World",
+    "duration": 150
+  },
+  {
+    "anime": "One Piece",
+    "author": "Boystyle",
+    "file": "piece5",
+    "song": "Op 5: \"Kokoro no Chizu\"",
+    "match": "Kokoro no Chizu",
+    "animeMatch": "One Piece",
+    "songMatch": "Kokoro no Chizu",
+    "duration": 112
+  },
+  {
+    "anime": "One Punch Man",
+    "author": "JAM Project",
+    "file": "punch1",
+    "song": "Op 1: \"The Hero!!\"",
+    "match": "The Hero!?!?",
+    "animeMatch": "One Punch Man",
+    "songMatch": "The Hero!?!?",
+    "duration": 89
+  },
+  {
+    "anime": "Ouran High School Host Club",
+    "author": "Chieko Ochi",
+    "file": "ouran1",
+    "song": "Op 1: \"Sakura Kiss\"",
+    "match": "Sakura Kiss",
+    "animeMatch": "Ouran High School Host Club",
+    "songMatch": "Sakura Kiss",
+    "duration": 79
+  },
+  {
+    "anime": "Overlord",
+    "author": "O×T",
+    "file": "overlord",
+    "song": "Op 1: \"Clattanoia\"",
+    "match": "Clattanoia",
+    "animeMatch": "Overlord",
+    "songMatch": "Clattanoia",
+    "duration": 89
+  },
+  {
+    "anime": "Owari no Seraph",
+    "author": "SawanoHiroyuki[nZk]: Gemie",
+    "file": "owari1",
+    "song": "Op 1: \"X.U.\"",
+    "match": "X.?U.?",
+    "animeMatch": "Owari no Seraph",
+    "songMatch": "X.?U.?",
+    "duration": 92
+  },
+  {
+    "anime": "Parasyte",
+    "author": "Fear, and Loathing in Las Vegas",
+    "file": "parasyte1",
+    "song": "Op 1: \"Let Me Hear\"",
+    "match": "Let Me Hear",
+    "animeMatch": "Parasyte",
+    "songMatch": "Let Me Hear",
+    "duration": 89
+  },
+  {
+    "anime": "Pokémon",
+    "author": "Jason Paige",
+    "file": "pokemon1",
+    "song": "Op 1: \"Pokémon Theme\"",
+    "match": "(Pok[ée]mon Theme Song|Gotta catch '?em all!?)",
+    "animeMatch": "Pok[ée]mon",
+    "songMatch": "(Pok[ée]mon Theme Song|Gotta catch '?em all!?)",
+    "duration": 198
+  },
+  {
+    "anime": "Psycho-Pass",
+    "author": "Nothing's Carved in Stone",
+    "file": "psycho2",
+    "song": "Op 2: \"Out of Control\"",
+    "match": "Out of Control",
+    "animeMatch": "Psycho[- ]Pass",
+    "songMatch": "Out of Control",
+    "duration": 89
+  },
+  {
+    "anime": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "author": "Bunny Girl",
+    "file": "bunnyE1",
+    "song": "Ed 1: \"Fukashigi no Carte\"",
+    "match": "Fukashigi no Carte",
+    "animeMatch": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "songMatch": "Fukashigi no Carte",
+    "duration": 61
+  },
+  {
+    "anime": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "author": "The Peggies",
+    "file": "bunny1",
+    "song": "Op 1: \"Kimi no Sei\"",
+    "match": "Kimi no Sei",
+    "animeMatch": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "songMatch": "Kimi no Sei",
+    "duration": 125
+  },
+  {
+    "anime": "Re:creators",
+    "author": "SawanoHiroyuki[nZk]",
+    "file": "creators1",
+    "song": "Op 1: \"GRAVITYWALL\"",
+    "match": "GRAVITYWALL",
+    "animeMatch": "Re:? ?creators",
+    "songMatch": "GRAVITYWALL",
+    "duration": 89
+  },
+  {
+    "anime": "Re:ZERO",
+    "author": "Konomi Suzuki",
+    "file": "re1",
+    "song": "Op 1: \"Redo\"",
+    "match": "Redo",
+    "animeMatch": "Re:? ?ZERO",
+    "songMatch": "Redo",
+    "duration": 90
+  },
+  {
+    "anime": "Re:ZERO",
+    "author": "MYTH & ROID",
+    "file": "re2",
+    "song": "Op 2: \"Paradisus-Paradoxum\"",
+    "match": "Paradisus-Paradoxum",
+    "animeMatch": "Re:? ?ZERO",
+    "songMatch": "Paradisus[- ]Paradoxum",
+    "duration": 100
+  },
+  {
+    "anime": "Rent-a-Girlfriend",
+    "author": "the peggies",
+    "file": "rent1",
+    "song": "Op 1: \"Centimeter\"",
+    "match": "Centimeter",
+    "animeMatch": "Rent[- ]a[- ]Girlfriend",
+    "songMatch": "Centimeter",
+    "duration": 99
+  },
+  {
+    "anime": "Rising of The Shield Hero",
+    "author": "MADKID",
+    "file": "rise1",
+    "song": "Op 1: \"RISE\"",
+    "match": "RISE",
+    "animeMatch": "Rising of The Shield Hero",
+    "songMatch": "RISE",
+    "duration": 105
+  },
+  {
+    "anime": "Rising of The Shield Hero",
+    "author": "MADKID",
+    "file": "rise2",
+    "song": "Op 2: \"FAITH\"",
+    "match": "FAITH",
+    "animeMatch": "Rising of The Shield Hero",
+    "songMatch": "FAITH",
+    "duration": 99
+  },
+  {
+    "anime": "Sailor Moon",
+    "author": "Sailor Moon",
+    "file": "moon1",
+    "song": "Op 1: \"Sailor Moon Theme\"",
+    "match": "Sailor Moon Theme",
+    "animeMatch": "Sailor Moon",
+    "songMatch": "Sailor Moon Theme",
+    "duration": 92
+  },
+  {
+    "anime": "Samurai Champloo",
+    "author": "Nujabes",
+    "file": "samurai1",
+    "song": "Op 1: \"Battlecry\"",
+    "match": "Battlecry",
+    "animeMatch": "Samurai Champloo",
+    "songMatch": "Battlecry",
+    "duration": 98
+  },
+  {
+    "anime": "Seven Deadly Sins",
+    "author": "Ikimonogakari",
+    "file": "seven1",
+    "song": "Op 1: \"Netsujo no Spectrum\"",
+    "match": "Netsujo no Spectrum",
+    "animeMatch": "Seven Deadly Sins",
+    "songMatch": "Netsujo no Spectrum",
+    "duration": 90
+  },
+  {
+    "anime": "Soul Eater",
+    "author": "T.M. Revolution",
+    "file": "soul1",
+    "song": "Op 1: \"Resonance\"",
+    "match": "Resonance",
+    "animeMatch": "Soul Eater",
+    "songMatch": "Resonance",
+    "duration": 98
+  },
+  {
+    "anime": "Soul Eater",
+    "author": "Tommy heavenly6",
+    "file": "soul2",
+    "song": "Op 2: \"Papermoon\"",
+    "match": "Papermoon",
+    "animeMatch": "Soul Eater",
+    "songMatch": "Papermoon",
+    "duration": 98
+  },
+  {
+    "anime": "Steins;Gate",
+    "author": "Kanako Itō",
+    "file": "gate1",
+    "song": "Op 1: \"Hacking to the Gate\"",
+    "match": "Hacking to the Gate",
+    "animeMatch": "Steins[;- ]Gate",
+    "songMatch": "Hacking to the Gate",
+    "duration": 95
+  },
+  {
+    "anime": "Steins;Gate 0",
+    "author": "Kanako Itou",
+    "file": "gate01",
+    "song": "Op 1: \"Fatima\"",
+    "match": "Fatima",
+    "animeMatch": "Steins[;- ]Gate 0",
+    "songMatch": "Fatima",
+    "duration": 90
+  },
+  {
+    "anime": "Sword Art Online",
+    "author": "LiSA",
+    "file": "sword1",
+    "song": "Op 1: \"Crossing Field\"",
+    "match": "Crossing Field",
+    "animeMatch": "Sword Art Online",
+    "songMatch": "Crossing Field",
+    "duration": 89
+  },
+  {
+    "anime": "Tengen Toppa Gurren Lagann",
+    "author": "中川　翔子",
+    "file": "tengen1",
+    "song": "Op 1: \"Sorairo Days\"",
+    "match": "Sorairo Days",
+    "animeMatch": "Tengen Toppa Gurren Lagann",
+    "songMatch": "Sorairo Days",
+    "duration": 90
+  },
+  {
+    "anime": "The Devil is a Part-Timer!",
+    "author": "Minami Kuribayashi",
+    "file": "devil1",
+    "song": "Op 1: \"ZERO!!\"",
+    "match": "ZERO!?!?",
+    "animeMatch": "The Devil is a Part[- ]Timer!?",
+    "songMatch": "ZERO!?!?",
+    "duration": 90
+  },
+  {
+    "anime": "The God of High School",
+    "author": "KSUKE",
+    "file": "god1",
+    "song": "Op 1: \"Contradiction\"",
+    "match": "Contradiction",
+    "animeMatch": "The God of High School",
+    "songMatch": "Contradiction",
+    "duration": 99
+  },
+  {
+    "anime": "The Promised Neverland",
+    "author": "UVERworld",
+    "file": "promise1",
+    "song": "Op 1: \"Touch Off\"",
+    "match": "Touch Off",
+    "animeMatch": "The Promised Neverland",
+    "songMatch": "Touch Off",
+    "duration": 127
+  },
+  {
+    "anime": "Toilet-bound Hanako-kun",
+    "author": "Jibaku Shounen Band",
+    "file": "toilet1",
+    "song": "Op 1: \"No.7\"",
+    "match": "No[. ]?7",
+    "animeMatch": "Toilet[- ]?bound Hanako-kun",
+    "songMatch": "No[. ]?7",
+    "duration": 90
+  },
+  {
+    "anime": "Tokyo Ghoul",
+    "author": "Toru Kitajima",
+    "file": "tokyo1",
+    "song": "Op 1: \"Unravel\"",
+    "match": "Unravel",
+    "animeMatch": "Tokyo Ghoul",
+    "songMatch": "Unravel",
+    "duration": 106
+  },
+  {
+    "anime": "Tower of God",
+    "author": "Stray Kids",
+    "file": "tower1",
+    "song": "Op 1: \"TOP\"",
+    "match": "TOP",
+    "animeMatch": "Tower of God",
+    "songMatch": "TOP",
+    "duration": 100
+  },
+  {
+    "anime": "Vinland Saga",
+    "author": "Survive Said The Prophet",
+    "file": "vinland1",
+    "song": "Op 1: \"Mukanjyo\"",
+    "match": "Mukanjyo",
+    "animeMatch": "Vinland Saga",
+    "songMatch": "Mukanjyo",
+    "duration": 90
+  },
+  {
+    "anime": "Wotaku ni Koi wa Muzukashii",
+    "author": "Sumika",
+    "file": "wotaku1",
+    "song": "Op 1: \"Fiction\"",
+    "match": "Fiction",
+    "animeMatch": "Wotaku ni Koi wa Muzukashii",
+    "songMatch": "Fiction",
+    "duration": 90
+  },
+  {
+    "anime": "Yamada-kun and the Seven Witches",
+    "author": "WEAVER",
+    "file": "yamada1",
+    "song": "Op 1: \"Kuchizuke Diamond\"",
+    "match": "Kuchizuke Diamond",
+    "animeMatch": "Yamada-kun and the Seven Witches",
+    "songMatch": "Kuchizuke Diamond",
+    "duration": 90
+  },
+  {
+    "anime": "Yarichin Bitch Club",
+    "author": "遠野高志/加島優/矢口恭介/ジミー/百合絢斗/田村唯/明美圭一/糸目幸士郎/鹿谷樹",
+    "file": "yarachinE1",
+    "song": "Ed 1: \"Touch You\"",
+    "match": "Touch You",
+    "animeMatch": "Yarichin Bitch Club",
+    "songMatch": "Touch You",
+    "duration": 86
+  },
+  {
+    "anime": "Your Lie in April",
+    "author": "GooseHouse",
+    "file": "lie1",
+    "song": "Op 1: \"Hikaru Nara\"",
+    "match": "Hikaru Nara",
+    "animeMatch": "Your Lie in April",
+    "songMatch": "Hikaru Nara",
+    "duration": 91
+  },
+  {
+    "anime": "Your Name",
+    "author": "RADWIMPS",
+    "file": "name1",
+    "song": "Op 1: \"Yumetourou\"",
+    "match": "Yumetourou",
+    "animeMatch": "Your Name",
+    "songMatch": "Yumetourou",
+    "duration": 126
+  },
+  {
+    "anime": "Yu Yu Hakusho",
+    "author": "Mawatari Matsuko",
+    "file": "yuyu1",
+    "song": "Op 1: \"Hohoemi no Bakudan\"",
+    "match": "Hohoemi no Bakudan",
+    "animeMatch": "Yu Yu Hakusho",
+    "songMatch": "Hohoemi no Bakudan",
+    "duration": 87
+  },
+  {
+    "anime": "Yuri!! On Ice",
+    "author": "DEAN FUJIOKA",
+    "file": "yuri1",
+    "song": "Op 1: \"History Maker\"",
+    "match": "History Maker",
+    "animeMatch": "Yuri!?!? On Ice",
+    "songMatch": "History Maker",
+    "duration": 90
+  }
+]
