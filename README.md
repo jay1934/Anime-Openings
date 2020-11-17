@@ -20,7 +20,7 @@
 
 2.  Configure the Bot:
 
-    - Run `npm i`
+    - Run `npm install`
     - You will need to [create a bot application](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot) in the **[developers space](https://discordapp.com/developers/applications/me)**
     - Enable both Priviledged Intents
 
