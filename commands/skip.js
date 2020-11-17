@@ -13,11 +13,15 @@ module.exports = {
     let required = Math.ceil(active.voice.members.size / 2) - 1;
     if (!required) {
       message.channel.send(
-        new MessageEmbed().setColor('GREEN').setTitle('Song Skipped')
+        new MessageEmbed()
+          .setColor('GREEN')
+          .setTitle('Song Skipped')
+          .setDescription(
+            `That was ${active.current.anime} ${active.current.song} by ${active.current.author}`
+          )
       );
       const song = active.play();
       if (active.freeplay) active.newFreeplaySong(song);
-      active.skip = true;
       return;
     }
     message.channel
@@ -25,7 +29,7 @@ module.exports = {
         new MessageEmbed()
           .setColor('GREEN')
           .setTitle(
-            `Would you like to skip this song? (${required} votes needed)`
+            `Would you like to skip this song? (1/${required} votes collected)`
           )
           .setFooter(
             `This message will be deleted if time runs out${
@@ -43,14 +47,13 @@ module.exports = {
           }
         );
 
-        active.connection.dispatcher.once('start', () => {
-          msg.delete();
-          collector.end('natural');
-        });
+        active.connection.dispatcher.on('close', () =>
+          collector.stop('natural')
+        );
 
-        collector.on('collect', () => {
-          msg
-            .edit({
+        collector
+          .on('collect', () => {
+            msg.edit({
               embed: {
                 ...msg.embeds[0],
                 title: msg.embeds[0].title.replace(
@@ -58,17 +61,16 @@ module.exports = {
                   `${--required}`
                 ),
               },
-            })
-            .on('end', (_, reason) => {
-              if (reason === 'natural') return;
-              msg.edit(
-                new MessageEmbed().setColor('GREEN').setTitle('Song Skipped')
-              );
-              const song = active.play();
-              if (active.freeplay) active.newFreeplaySong(song);
-              active.skip = true;
             });
-        });
+          })
+          .on('end', (_, reason) => {
+            if (reason === 'natural') return msg.delete();
+            msg.edit(
+              new MessageEmbed().setColor('GREEN').setTitle('Song Skipped')
+            );
+            const song = active.play();
+            if (active.freeplay) active.newFreeplaySong(song);
+          });
       });
   },
 };
