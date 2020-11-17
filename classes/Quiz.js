@@ -16,7 +16,11 @@ const update = (message, quiz) => {
             text: message.embeds[0].footer.text.replace(/\d+/, (match) => {
               if (+match <= 2 || current.song !== quiz.current.song)
                 clearInterval(interval);
-              return `${current.song === quiz.current.song ? +match - 2 : 0}`;
+              return `${
+                current.song === quiz.current.song || +match > 2
+                  ? +match - 2
+                  : 0
+              }`;
             }),
           },
         },
@@ -41,22 +45,9 @@ module.exports = class Quiz {
       ...options,
       scoreboard: new ScoreBoard(),
       streaks: new StreakCollection(),
-      skip: false,
-      ended: false,
       voice: options.connection.channel,
     });
     options.client.active = this;
-  }
-
-  freeplay() {
-    this.text.send(
-      new MessageEmbed()
-        .setColor('GREEN')
-        .setAuthor(...this.client.author(this.leader))
-        .setTitle('Freeplay Initiated')
-    );
-
-    this.newFreeplaySong(this.play(true));
   }
 
   newFreeplaySong(song) {
@@ -95,6 +86,7 @@ module.exports = class Quiz {
 
   play() {
     const song = getSong();
+    console.log(song.animeMatch, song.songMatch);
     this.current = song;
     this.connection.play(
       require('path').join(__dirname, `../music/${song.file}.mp3`),
@@ -120,11 +112,8 @@ module.exports = class Quiz {
         }
       )
       .then((collected) => {
-        if (!this.client.active) return;
-        if (this.skip) {
-          this.skip = false;
-          return;
-        }
+        if (this.current.song !== song.song || !this.client.active) return;
+
         const message = collected.first();
         const global = this.client.scoreboard.inc(message.author.id);
         const reward = Object.entries(
@@ -169,11 +158,7 @@ module.exports = class Quiz {
       })
       .catch(() => {
         this.streaks.removeAll();
-        if (this.skip) {
-          this.skip = false;
-          return;
-        }
-        if (!this.client.active) return;
+        if (this.current.song !== song.song || !this.client.active) return;
         this.text
           .send(
             new MessageEmbed()
