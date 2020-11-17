@@ -20,9 +20,11 @@ module.exports = {
         .setAuthor(...author(message.author))
         .setColor('GREEN')
         .setTitle('Song Skipped')
+        .setDescription(
+          `That was ${active.current.anime} ${active.current.song} by ${active.current.author}`
+        )
     );
 
-    active.skip = true;
     const song = active.play();
     if (active.freeplay) active.newFreeplaySong(song);
   },
