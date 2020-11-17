@@ -1426,7 +1426,7 @@
     "author": "Kanako Itō",
     "file": "gate1",
     "song": "Op 1: \"Hacking to the Gate\"",
-    "animeMatch": "Steins[;- ]Gate",
+    "animeMatch": "Steins[;\\- ]Gate",
     "songMatch": "Hacking to the Gate",
     "duration": 95
   },
@@ -1435,7 +1435,7 @@
     "author": "Kanako Itou",
     "file": "gate01",
     "song": "Op 1: \"Fatima\"",
-    "animeMatch": "Steins[;- ]Gate 0",
+    "animeMatch": "Steins[;\\- ]Gate 0",
     "songMatch": "Fatima",
     "duration": 90
   },
