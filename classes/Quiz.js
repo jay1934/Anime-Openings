@@ -2,7 +2,6 @@ const { MessageEmbed } = require('discord.js');
 const ScoreBoard = require('./ScoreBoard');
 const StreakCollection = require('./StreakCollection');
 
-const getSong = () => require('../data/openings.json')[~~(Math.random() * 175)];
 const getDetails = (song) => `${song.anime} ${song.song} by ${song.author}`;
 const update = (message, quiz) => {
   const { current } = quiz;
@@ -85,7 +84,9 @@ module.exports = class Quiz {
   }
 
   play() {
-    const song = getSong();
+    const song = this.client.songs[
+      ~~(Math.random() * this.client.songs.length)
+    ];
     console.log(song.animeMatch, song.songMatch);
     this.current = song;
     this.connection.play(
@@ -116,6 +117,10 @@ module.exports = class Quiz {
 
         const message = collected.first();
         const global = this.client.scoreboard.inc(message.author.id);
+        require('fs').writeFileSync(
+          './data/scoreboard.json',
+          JSON.stringify(this.client.scoreboard.serialize(), '', 2)
+        );
         const reward = Object.entries(
           require('../config.json').roleRewards
         ).find(([required]) => +required === global);
