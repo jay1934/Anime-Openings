@@ -1,6 +1,10 @@
 const { Collection } = require('discord.js');
 
 module.exports = class ScoreBoard extends Collection {
+  constructor(deserializable) {
+    super(deserializable ? Object.entries(deserializable) : null);
+  }
+
   get leader() {
     const sorted = this.sort((a, b) => b - a);
     return [sorted.firstKey(), sorted.first()];
@@ -23,5 +27,9 @@ module.exports = class ScoreBoard extends Collection {
         )
         .join('\n') || "Nobody's on the scoreboard yet!"
     );
+  }
+
+  serialize() {
+    return Object.fromEntries([...this.entries()]);
   }
 };
